@@ -22,8 +22,8 @@ The app is deployed on Streamlit Community Cloud. You can use it directly in you
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/DEV-S-SHAH/DEV-S-SHAH-tweet-sentiment-analysis.git
-   cd DEV-S-SHAH-tweet-sentiment-analysis
+   git clone https://github.com/DEV-S-SHAH/tweet-sentiment-analysis.git
+   cd tweet-sentiment-analysis
    ```
 
 2. **Install dependencies**
